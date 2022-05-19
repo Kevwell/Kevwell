@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevwell
+- 👋 Hi, I’m Kevwell
 - 👀 I’m interested in AI, machine learning and coding.
 - 🌱 I’m currently learning about data science.
 
