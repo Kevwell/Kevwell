@@ -6,7 +6,7 @@ My journey began in the realm of chemistry, where I meticulously explored the in
 
 Fueling my enthusiasm for innovation, I have cultivated expertise in drug discovery, organic synthesis, biocatalysis, and green chemistry. My multifaceted background enables me to approach data science challenges with creativity and a keen eye for practical applications.
 
-
+[![kevwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevwell](https://github.com/kevwell/github-readme-stats)
 
 <!---
 Kevwell/Kevwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
