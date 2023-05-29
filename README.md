@@ -1,4 +1,4 @@
-there 
+Hi there 
 
 I'm a passionate data scientist with a solid foundation in academia and a strong drive to excel in the world of technology. Armed with a PhD in Chemistry and over 10 years of invaluable research experience, I bring a unique perspective to the field of data science.
 
