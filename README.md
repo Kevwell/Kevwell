@@ -5,7 +5,7 @@ I'm a passionate data scientist with a solid foundation in academia and a strong
 My journey began in the realm of chemistry, where I meticulously explored the intricate world of molecules and their interactions. Through my extensive research, I managed and led projects focused on the discovery of groundbreaking agents targeting cancer, microbial infections, and acaricides.
 
 Fueling my enthusiasm for innovation, I have cultivated expertise in drug discovery, organic synthesis, biocatalysis, and green chemistry. My multifaceted background enables me to approach data science challenges with creativity and a keen eye for practical applications.
-I am currently learning data science
+
 
 
 
