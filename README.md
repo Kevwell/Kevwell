@@ -1,5 +1,4 @@
-- 👋 Hi, 
-- 👀 I’m interested in AI, machine learning and data science.
+
 
 
 
